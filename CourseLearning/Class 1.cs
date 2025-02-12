@@ -1,5 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// According to class PDF 7 02_revision
 using System;
+namespace CourseLearning;
 // Main
 class MyClass
 {
