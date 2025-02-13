@@ -1,4 +1,4 @@
-namespace Laboratory;
+namespace Lab_1;
 
 public class Product
 {

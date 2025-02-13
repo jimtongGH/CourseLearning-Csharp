@@ -1,4 +1,4 @@
-using Laboratory;
+using Lab_1;
 
 namespace AutomatedWarehouse
 {

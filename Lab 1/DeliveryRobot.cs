@@ -1,6 +1,6 @@
 using AutomatedWarehouse;
 
-namespace Laboratory;
+namespace Lab_1;
 
 class DeliveryRobot : WarehouseRobot
 {

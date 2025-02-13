@@ -3,7 +3,7 @@
 using System;
 using System.Collections.Concurrent;
 using AutomatedWarehouse;
-using Laboratory;
+using Lab_1;
 
 class main
 {
